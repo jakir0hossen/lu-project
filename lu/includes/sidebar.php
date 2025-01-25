@@ -41,7 +41,7 @@ while($row=mysqli_fetch_array($query))
 
           <!-- Side Widget -->
           <div class="card my-4">
-            <h5 class="card-header">Recent News</h5>
+            <h5 class="card-header">Recent Blog</h5>
             <div class="card-body">
                       <ul class="mb-0">
 <?php
@@ -61,7 +61,7 @@ while ($row=mysqli_fetch_array($query)) {
 
    <!-- Side Widget -->
           <div class="card my-4">
-            <h5 class="card-header">Popular News</h5>
+            <h5 class="card-header">Popular Blog</h5>
             <div class="card-body">
                       <ul >
 <?php

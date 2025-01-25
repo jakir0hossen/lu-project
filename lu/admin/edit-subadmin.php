@@ -29,7 +29,7 @@ echo "<script>alert('Something went wrong . Please try again.');</script>";
 <html lang="en">
     <head>
 
-        <title>Newsportal |Edit Subadmin</title>
+        <title>Lu Magazine |Edit Subadmin</title>
 
         <!-- App css -->
         <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
@@ -160,7 +160,7 @@ while($row=mysqli_fetch_array($query))
                                                     <label class="col-md-2 control-label">&nbsp;</label>
                                                     <div class="col-md-10">
                                                   
-                                                <button type="submit" class="btn btn-custom waves-effect waves-light btn-md" name="submit">
+                                                <button type="submit" class="btn btn-success waves-effect waves-light btn-md" name="submit">
                                                     Update
                                                 </button>
                                                     </div>

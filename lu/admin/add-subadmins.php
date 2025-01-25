@@ -30,7 +30,7 @@ echo "<script>alert('Something went wrong. Please try again.');</script>";
 <html lang="en">
     <head>
 
-        <title>Newsportal | Add Subadmin</title>
+        <title>Lu Magazine | Add Subadmin</title>
 
         <!-- App css -->
         <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
@@ -139,7 +139,7 @@ error:function (){}
         <div class="form-group">
        <label class="col-md-2 control-label">&nbsp;</label>
         <div class="col-md-10">
-    <button type="submit" class="btn btn-custom waves-effect waves-light btn-md" id="submit" name="submit">
+    <button type="submit" class="btn btn-success waves-effect waves-light btn-md" id="submit" name="submit">
        Submit</button>
                                                     </div>
                                                 </div>

@@ -233,7 +233,7 @@ while ($row=mysqli_fetch_array($query)) {
 <!--Subcategory--->
   <a class="badge bg-secondary text-decoration-none link-light"  style="color:#fff"><?php echo htmlentities($row['subcategory']);?></a></p>
        
-              <a href="news-details.php?nid=<?php echo htmlentities($row['pid'])?>" class="btn btn-success">Read More &rarr;</a>
+              <a href="blog-details.php?nid=<?php echo htmlentities($row['pid'])?>" class="btn btn-success">Read More &rarr;</a>
             </div>
             <div class="card-footer text-muted">
               Posted on <?php echo htmlentities($row['postingdate']);?>

@@ -46,7 +46,7 @@ $error="Old Password not match !!";
 <html lang="en">
     <head>
 
-        <title>Newsportal | Add Category</title>
+        <title>Lu Magazine | Add Category</title>
 
         <!-- App css -->
         <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
@@ -195,7 +195,7 @@ return true;
 <label class="col-md-4 control-label">&nbsp;</label>
 <div class="col-md-8">
                                                   
-<button type="submit" class="btn btn-custom waves-effect waves-light btn-md" name="submit">
+<button type="submit" class="btn btn-success waves-effect waves-light btn-md" name="submit">
                                                     Submit
                                                 </button>
                                                     </div>
