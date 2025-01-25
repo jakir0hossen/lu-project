@@ -52,7 +52,7 @@
                         </ul>
                     </li>
                     <li><a href="./contact.php">Contact</a></li>
-                    <li><a href="./logout.php"><i class="fa-solid fa-right-to-bracket"></i>logout</a></li>
+                    <!-- <li><a href="./SignIn.php"><i class="fa-solid fa-right-to-bracket"></i>login</a></li> -->
                 </ul>
                 
             </div>
