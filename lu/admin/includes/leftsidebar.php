@@ -38,7 +38,7 @@
                                 </ul>
                             </li>               
   <li class="has_sub">
-                                <a href="javascript:void(0);" style="color: white"; class="waves-effect"><i class="mdi mdi-format-list-bulleted"></i> <span> Posts (News) </span> <span class="menu-arrow"></span></a>
+                                <a href="javascript:void(0);" style="color: white"; class="waves-effect"><i class="mdi mdi-format-list-bulleted"></i> <span> Posts  </span> <span class="menu-arrow"></span></a>
                                 <ul class="list-unstyled">
                                     <li><a href="add-post.php" style="color: white";>Add Posts</a></li>
                                     <li><a href="manage-posts.php" style="color: white";>Manage Posts</a></li>
