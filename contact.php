@@ -91,28 +91,9 @@
                     </div>
                 </div>
             </div>
-            <!-- <div class="contactForm">
-                <form>
-                    <h2>Send Message</h2>
-                    <div class="inputBox">
-                        <input type="text" name="" required="required">
-                        <span>Full Name</span>
-                    </div>
-                    <div class="inputBox">
-                        <input type="text" name="" required="required">
-                        <span>Email</span>
-                    </div>
-                    <div class="inputBox">
-                        <textarea required="required"></textarea>
-                        <span>Type your Message...</span>
-                    </div>
-                    <div class="inputBox">
-                        <input type="submit" name="" value="Send">
-                    </div>
-                </form>
-            </div> -->
+       
             <div class="contactForm">
-    <form action="send_email.php" method="post">
+    <form action="contact_email.php" method="post">
         <h2>Send Message</h2>
         <div class="inputBox">
             <input type="text" name="name" required="required">
